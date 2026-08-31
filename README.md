@@ -32,3 +32,8 @@ Genera el mensaje de commit para mis cambios staged.
 
 El skill inspecciona únicamente los cambios preparados con `git add`; no crea el
 commit automáticamente.
+
+## Validación realizada
+
+El laboratorio fue probado mediante invocación directa y lenguaje natural en
+Codex, GitHub Copilot Chat, GitHub Copilot CLI y Cursor.
